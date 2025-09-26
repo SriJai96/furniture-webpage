@@ -66,8 +66,7 @@ Clone the Repository:
 
 Bash
 
-git clone [Your Repository URL Here]
-
+git clone https://github.com/SriJai96/furniture-webpage.git
 📂 Project Structure
 furni.shop/
 
